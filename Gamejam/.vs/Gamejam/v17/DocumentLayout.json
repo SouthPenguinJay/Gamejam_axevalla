@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86211EB8-4B43-3E4C-0709-71E43D382CCA}|Assembly-CSharp.csproj|c:\\users\\axevalla\\documents\\gamejam_axevalla\\gamejam\\assets\\scripts\\pathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86211EB8-4B43-3E4C-0709-71E43D382CCA}|Assembly-CSharp.csproj|c:\\users\\axevalla\\documents\\gamejam_axevalla\\gamejam\\assets\\scripts\\dynamictmptext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86211EB8-4B43-3E4C-0709-71E43D382CCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dynamictmptext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\Assets\\scripts\\DynamicTextTMP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\DynamicTextTMP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86211EB8-4B43-3E4C-0709-71E43D382CCA}|Assembly-CSharp.csproj|C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\assets\\scripts\\pathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86211EB8-4B43-3E4C-0709-71E43D382CCA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +27,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DynamicTMPText.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\Assets\\scripts\\DynamicTMPText.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DynamicTMPText.cs",
+              "ToolTip": "C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\Assets\\scripts\\DynamicTMPText.cs*",
+              "RelativeToolTip": "Assets\\scripts\\DynamicTMPText.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:41:53.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicTextTMP.cs",
+              "DocumentMoniker": "C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\Assets\\scripts\\DynamicTextTMP.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DynamicTextTMP.cs",
+              "ToolTip": "C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\Assets\\scripts\\DynamicTextTMP.cs",
+              "RelativeToolTip": "Assets\\scripts\\DynamicTextTMP.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:37:55.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PathFollower.cs",
               "DocumentMoniker": "C:\\Users\\Axevalla\\Documents\\Gamejam_axevalla\\Gamejam\\Assets\\scripts\\PathFollower.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\PathFollower.cs",
@@ -26,8 +58,7 @@
               "RelativeToolTip": "Assets\\scripts\\PathFollower.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T07:19:33.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T07:19:33.418Z"
             }
           ]
         }
